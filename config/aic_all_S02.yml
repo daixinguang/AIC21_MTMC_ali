@@ -1,0 +1,11 @@
+CHALLENGE_DATA_DIR: '/aic/code/AIC21-MTMC/datasets/AIC22_Track1_MTMC_Tracking'
+DET_SOURCE_DIR: '/aic/code/AIC21-MTMC/datasets/detection/images/validation/S02/'
+DATA_DIR: '/aic/code/AIC21-MTMC/datasets/validation/detect_merge/'
+REID_SIZE_TEST: [384, 384]    # 384, 256
+ROI_DIR: '/aic/code/AIC21-MTMC/datasets/AIC22_Track1_MTMC_Tracking/validation/S02/'
+CID_BIAS_DIR: '/aic/code/AIC21-MTMC/datasets/AIC22_Track1_MTMC_Tracking/cam_timestamp/'
+USE_ZONE: False # dxg 
+USE_RERANK: True
+USE_FF: True
+SCORE_THR: 0.1
+MCMT_OUTPUT_TXT: 'track_S02.txt'
