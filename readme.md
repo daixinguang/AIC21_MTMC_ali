@@ -1,3 +1,5 @@
+the code is clone from [AIC21-MTMC](https://github.com/LCFractal/AIC21-MTMC.git)
+
 # [City-Scale Multi-Camera Vehicle Tracking Guided by Crossroad Zones](https://arxiv.org/pdf/2105.06623.pdf)
 
 ## Requirements
